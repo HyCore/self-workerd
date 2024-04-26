@@ -6,6 +6,8 @@ This project is based on [workerd](https://github.com/cloudflare/workerd), the V
 
 And, for a real scenario, it uses [Fly](https://fly.io) as cloud provider, where the FaaS is hosted. It relies on container-based deployment.
 
+--- This project will be used for my offline cloud server.
+
 ## Step by step Tutorial
 A complete guide can be found on
 [https://www.breakp.dev/blog/build-your-own-faas](https://www.breakp.dev/blog/build-your-own-faas/?from=github-readme)
